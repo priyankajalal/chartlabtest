@@ -2,3 +2,7 @@ pro plus email - chart lab email_proplus.py
 chartlabalerts@thechartlab.com
 
 
+
+iview emails -- mails prepared by dotnet code and send by queue code python
+mongodb queue == iview_emailalerts
+
